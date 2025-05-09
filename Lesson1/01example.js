@@ -4,5 +4,5 @@ const surname="Markogiannakis";
 
 console.log(i);
 
-console.log(firstName,surname)
+console.log(`Hi ${firstName} ${surname}`); 
 // print firstname and surname
